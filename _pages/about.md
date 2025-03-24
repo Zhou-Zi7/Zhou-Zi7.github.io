@@ -103,6 +103,7 @@ Serve as a reviewer/ program committee member for the following international co
   
 Serve as a reviewer for the following international journals:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A)
+- IEEE Transactions on Dependable and Secure Computing (TDSC, CCF A)
 - IEEE Transactions on Information Systems (TOIS, CCF A)
 - IEEE Transactions on Multimedia (TMM, CCF B)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS, CCF B)
