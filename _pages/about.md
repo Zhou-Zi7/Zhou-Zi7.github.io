@@ -89,6 +89,7 @@ Serve as a reviewer/ program committee member for the following international co
 - ACM Mutimeda 2023/2024/2025 (ACM MM, CCF A)
 - IEEE Virtual Reality 2024（VR, CCF A）
 - ACM Conference on Human Factors in Computing Systems 2025（CHI, CCF A）
+- The 28th European Conference on Artificial Intelligence (ECAI, CCF B)
 - IEEE International Conference on Acoustics, Speech and Signal Processing 2025 (ICASSP, CCF B)
 - Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP, CCF B)
 - The International AAAI Conference on Web and Social Media 2025 (ICWSM, CCF B)
