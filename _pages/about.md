@@ -11,7 +11,7 @@ I am currently a fourth-year Ph.D student advised by Prof. Shengshan Hu, Leo Yu 
 
 I am an enthusiastic researcher with a passion for exploring new ideas and pushing the boundaries of knowledge. In addition to my academic pursuits, I am also an avid debater and enjoy participating in debate competitions. I find great satisfaction in the process of thinking critically and exchanging ideas with others, and I believe that this skillset has been invaluable in my pursuit of academic excellence. I am committed to pursuing research that not only advances our understanding of the world around us, but also has the potential to positively impact society at large.
 
-<span style="color:red">I'm seeking postdoc and faculty positions, set to graduate with my Ph.D. in June 2026.</span>
+<span style="color:red">I'm seeking a faculty or postdoc position, set to graduate with my Ph.D. in June 2026.</span>
 
 Research Interests
 ======
