@@ -111,6 +111,7 @@ Serve as a reviewer for the following international journals:
 - IEEE Transactions on Multimedia (TMM, CCF B)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS, CCF B)
 - Computer Vision and Image Understanding (CVIU, CCF B)
+- Transactions on Intelligent Systems and Technology (TIST)
 - Neural Networks  (NEUNET, CCF B)
 - Applied Intelligence （APIN, CCF C）
 - PLOS ONE 
