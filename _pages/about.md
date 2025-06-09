@@ -110,6 +110,7 @@ Serve as a reviewer for the following international journals:
 - IEEE Transactions on Information Systems (TOIS, CCF A)
 - IEEE Transactions on Multimedia (TMM, CCF B)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS, CCF B)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, CCF B)
 - Computer Vision and Image Understanding (CVIU, CCF B)
 - Transactions on Intelligent Systems and Technology (TIST)
 - Neural Networks  (NEUNET, CCF B)
