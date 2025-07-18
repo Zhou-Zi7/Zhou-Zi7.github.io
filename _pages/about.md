@@ -19,7 +19,7 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication 
 ======
-**Ziqi Zhou**, Menghao Deng, Yufei Song, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li, Leo Yu Zhang, and Dezhong Yao.
+- **Ziqi Zhou**, Menghao Deng, Yufei Song, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li, Leo Yu Zhang, and Dezhong Yao.
 DarkHash: A Data-Free Backdoor Attack Against Deep Hashing.
  **TIFS**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
 - Hangtao Zhang, Yichen Wang, Shihui Yan, Chenyu Zhu, **Ziqi Zhou**, Linshan Hou, Shengshan Hu, Minghui Li, Yanjun Zhang, Leo Yu Zhang.
