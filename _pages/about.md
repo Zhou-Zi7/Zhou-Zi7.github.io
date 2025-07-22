@@ -22,6 +22,24 @@ Publication
 - **Ziqi Zhou**, Menghao Deng, Yufei Song, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li, Leo Yu Zhang, and Dezhong Yao.
 DarkHash: A Data-Free Backdoor Attack Against Deep Hashing.
  **TIFS**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
+- **Ziqi Zhou**, Bowen Li, Yufei Song, Zhifei Yu, Shengshan Hu, Wei Wan, Leo Yu Zhang, Dezhong Yao, Hai Jin.
+ NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors.
+In Proceedings of **AAAI**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
+- **Ziqi Zhou**, Yufei Song, Minghui Li, Shengshan Hu, Xianlong Wang, Leo Yu Zhang, Dezhong Yao, Hai Jin.
+DarkSAM: Fooling Segment Anything Model to Segment Nothing.
+In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
+- **Ziqi Zhou**, Minghui Li, Wei Liu, Shengshan Hu,  Yechao Zhang, Wei Wan, Lulu Xue, Leo Yu Zhang, Dezhong Yao, Hai Jin.
+Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples.
+In Proceedings of **IEEE S&P**. 2024.  [[Code]](https://arxiv.org/abs/2403.10801)[[pdf]](https://arxiv.org/abs/2403.10801)
+- **Ziqi Zhou**, Shengshan Hu, Minghui Li, Hangtao Zhang, Yechao Zhang, Hai Jin.
+AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning.
+In Proceedings of **ACM MM**. 2023. [[Code]](https://github.com/CGCL-codes/AdvCLIP)[[pdf]](https://dl.acm.org/doi/10.1145/3581783.3612454)
+- **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
+Downstream-agnostic Adversarial Examples.
+In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Downstream-agnostic_Adversarial_Examples_ICCV_2023_paper.pdf)
+- Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin.
+BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
+In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 - Hangtao Zhang, Yichen Wang, Shihui Yan, Chenyu Zhu, **Ziqi Zhou**, Linshan Hou, Shengshan Hu, Minghui Li, Yanjun Zhang, Leo Yu Zhang.
 Test-Time Backdoor Detection for Object Detection Models.
 In Proceedings of **CVPR**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
@@ -31,9 +49,6 @@ In Proceedings of **ICLR**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
 - Yufei Song, **Ziqi Zhou***, Minghui Li, Xianlong Wang, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang.
 PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation.
 In Proceedings of **ICASSP**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
-- **Ziqi Zhou**, Bowen Li, Yufei Song, Zhifei Yu, Shengshan Hu, Wei Wan, Leo Yu Zhang, Dezhong Yao, Hai Jin.
- NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors.
-In Proceedings of **AAAI**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
 - Yichen Wang, Yuxuan Chou, **Ziqi Zhou**, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li.
 Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature.
 In Proceedings of **AAAI**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
@@ -43,9 +58,6 @@ In Proceedings of **AAAI**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
 - Xianlong Wang, Hewen Pan, Hangtao Zhang, Minghui Li, Shengshan Hu, **Ziqi Zhou**, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Yu Zhang.
 TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World.
 **arXiv**. 2024.  [[Code]](https://arxiv.org/abs/2411.11683)[[pdf]](https://arxiv.org/abs/2411.11683)
-- **Ziqi Zhou**, Yufei Song, Minghui Li, Shengshan Hu, Xianlong Wang, Leo Yu Zhang, Dezhong Yao, Hai Jin.
-DarkSAM: Fooling Segment Anything Model to Segment Nothing.
-In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
 - Xianlong Wang, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, **Ziqi Zhou**, Hai Jin.
 Class-wise Transformation Is All You Need.
 In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
@@ -58,24 +70,12 @@ In Proceedings of **ESORICS**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
 - Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, **Ziqi Zhou**, Xianlong Wang, Yanjun Zhang, Chao Chen.
 Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness.
 In Proceedings of **IJCAI**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
-- **Ziqi Zhou**, Minghui Li, Wei Liu, Shengshan Hu,  Yechao Zhang, Wei Wan, Lulu Xue, Leo Yu Zhang, Dezhong Yao, Hai Jin.
-Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples.
-In Proceedings of **IEEE S&P**. 2024.  [[Code]](https://arxiv.org/abs/2403.10801)[[pdf]](https://arxiv.org/abs/2403.10801)
 - Xianlong Wang, Shengshan Hu, Minghui Li, Zhifei Yu, **Ziqi Zhou**, Leo Yu Zhang, Hai Jin.
 Corrupting Unbounded Unlearnable Datasets with Pixel-based Image Transformations.
 **arXiv**. 2023.  [[Code]](xxxxx)[[pdf]](https://arxiv.org/abs/2311.18403)
 - Wei Wan, Shengshan Hu, Jianrong Lu, Minghui Li, **Ziqi Zhou**, Hai Jin.
 Generalisation Robustness Enhancement for Federal Learning in Highly Data Heterogeneous Scenarios.
 In **SCIENTIA SINICA Informationis**. 2023.  [[Code]](xxxxx)[[pdf]](xxxx)
-- **Ziqi Zhou**, Shengshan Hu, Minghui Li, Hangtao Zhang, Yechao Zhang, Hai Jin.
-AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning.
-In Proceedings of **ACM MM**. 2023. [[Code]](https://github.com/CGCL-codes/AdvCLIP)[[pdf]](https://dl.acm.org/doi/10.1145/3581783.3612454)
-- **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
-Downstream-agnostic Adversarial Examples.
-In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Downstream-agnostic_Adversarial_Examples_ICCV_2023_paper.pdf)
-- Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin.
-BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
-In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 
 \* indicates the corresponding author
 
