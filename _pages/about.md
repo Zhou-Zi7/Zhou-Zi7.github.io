@@ -90,6 +90,7 @@ Serve as a reviewer/ program committee member for the following international co
 - The International Conference on Machine Learning 2025 (ICML, CCF A)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR, CCF A)
 - International Conference on Learning Representations 2025 (ICLR, CAAI A)
+- The Fortieth AAAI Conference on Artificial Intelligence 2026 (AAAI, CCF A)
 - The International Joint Conference on Artificial Intelligence 2025 (IJCAI, CCF A)
 - ACM Mutimeda 2023/2024/2025 (ACM MM, CCF A)
 - IEEE Virtual Reality 2024（VR, CCF A）
