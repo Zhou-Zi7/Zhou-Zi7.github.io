@@ -265,8 +265,9 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
     News
   </h1>  
   <ul id="news-list">
-	<li class="indented" data-date="Jul, 2025">  <b><span style="color: red;">  [Pinned] Honored to be selected for Ant Group's Top AI Talent Program — <a href="https://talent.antgroup.com/ant-star?language=zh" target="_blank">ANT Star</a> (with an annual salary exceeding RMB one million). </span></b> </li>
-   	<li class="indented" data-date="Mar, 2026"> One paper on machine unlearning accepted to ICME 2026.</li>
+	<!-- <li class="indented" data-date="Jul, 2025">  <b><span style="color: red;">  [Pinned] Honored to be selected for Ant Group's Top AI Talent Program — <a href="https://talent.antgroup.com/ant-star?language=zh" target="_blank">ANT Star</a> (with an annual salary exceeding RMB one million). </span></b> </li> -->
+   	<li class="indented pinned" data-date="Jul, 2025"> <b><span style="color: red;">[Pinned] Honored to be selected for Ant Group's Top AI Talent Program — <a href="https://talent.antgroup.com/ant-star?language=zh" target="_blank">ANT Star</a> (with an annual salary exceeding RMB one million).</span></b></li>
+	<li class="indented" data-date="Mar, 2026"> One paper on machine unlearning accepted to ICME 2026.</li>
 	<li class="indented" data-date="Mar, 2026"> Two paper on adversarial examples and LLMs accepted to ACM Computing Surveys 2026.</li>
 	<li class="indented" data-date="Feb, 2026"> One paper on video LLMs accepted to CVPR 2026.</li>
 	<li class="indented" data-date="Jan, 2026"> Two paper on adversarial training and unlearning accepted to ICASSP 2026.</li>
@@ -308,7 +309,7 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
   }
 </style>
 
-<script>
+<!-- <script>
   document.addEventListener('DOMContentLoaded', function () {
     const newsList = document.getElementById('news-list');
     const toggleContainer = document.getElementById('toggle-container');
@@ -345,8 +346,51 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
       toggleButton.textContent = isHidden ? 'Show Less' : 'Show More';
     });
   });
-</script> 
+</script>  -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const newsList = document.getElementById('news-list');
+    const toggleContainer = document.getElementById('toggle-container');
+    const toggleButton = document.getElementById('toggle-news');
+    const newsItems = Array.from(newsList.getElementsByTagName('li'));
 
+    // Sort: pinned first, then by date (most recent first)
+    newsItems.sort((a, b) => {
+      const aPinned = a.classList.contains('pinned');
+      const bPinned = b.classList.contains('pinned');
+
+      if (aPinned && !bPinned) return -1;
+      if (!aPinned && bPinned) return 1;
+
+      const dateA = new Date(a.getAttribute('data-date'));
+      const dateB = new Date(b.getAttribute('data-date'));
+      return dateB - dateA;
+    });
+
+    // Re-append sorted items to the list
+    newsList.innerHTML = '';
+    newsItems.forEach(item => newsList.appendChild(item));
+
+    // Show only the first 10 items, hide the rest
+    const maxVisible = 10;
+    newsItems.forEach((item, index) => {
+      if (index >= maxVisible) {
+        item.classList.add('hidden');
+        toggleContainer.style.display = 'block';
+      }
+    });
+
+    // Toggle visibility of hidden items
+    toggleButton.addEventListener('click', function () {
+      const hiddenItems = newsItems.slice(maxVisible);
+      const isHidden = hiddenItems.length > 0 && hiddenItems[0].classList.contains('hidden');
+      hiddenItems.forEach(item => {
+        item.classList.toggle('hidden');
+      });
+      toggleButton.textContent = isHidden ? 'Show Less' : 'Show More';
+    });
+  });
+</script>
 
 
 <div id="publications" class="publications">
