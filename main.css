@@ -2052,3 +2052,59 @@ div.paginate-container li:nth-last-child(2) a:after {
     height: 16px;
     margin-right: 4px;
   }
+
+
+/* ================= Team ================= */
+
+.team-table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:15px;
+    margin-bottom:35px;
+    font-size:15px;
+}
+
+.team-table th{
+    background:#f7f7f7;
+    border-bottom:2px solid #d9d9d9;
+    padding:12px;
+    text-align:left;
+    font-weight:600;
+}
+
+.team-table td{
+    border-bottom:1px solid #ececec;
+    padding:12px;
+    vertical-align:top;
+    line-height:1.6;
+}
+
+.team-table tr:hover{
+    background:#fafafa;
+}
+
+.team-table small{
+    color:#666;
+}
+
+#team h2{
+    color:#333;
+    margin-top:28px;
+    margin-bottom:12px;
+    font-size:22px;
+    border-left:5px solid #4A90E2;
+    padding-left:12px;
+}
+
+@media screen and (max-width:900px){
+
+.team-table{
+    font-size:13px;
+}
+
+.team-table th,
+.team-table td{
+    padding:8px;
+}
+
+}
